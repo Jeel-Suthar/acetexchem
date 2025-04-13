@@ -28,6 +28,10 @@
     font-size: 22px;
 }
 
+.inner-product .main-product-box .project-tag  {
+    top: 30px;
+    width: 80%;
+}
 
 .inner-product .main-product-box .project-image img {
     aspect-ratio: auto;
