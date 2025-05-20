@@ -75,3 +75,22 @@
 .bg-inner-light{
     background: #d0e5fb3b;
 }
+.certi-sec{
+  background: url('../images/testimonial-bg.png'), var(--secondary-color);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	padding: 100px 0;
+}
+
+ .certi-sec .company-logo {
+    position: relative;
+    display: block;
+    text-align: center;
+    background: #fff;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 20px rgba(80, 80, 80, 0.2);
+    transition: all 500ms ease;
+    border-radius: 15px;
+    padding: 30px;
+}
